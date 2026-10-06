@@ -1,0 +1,14 @@
+{
+  "name": "club-ceramic",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Club Ceramic static website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo \"Static site, no build step\""
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
